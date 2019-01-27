@@ -11,7 +11,7 @@ Using both job simulation and body swapping we managed to create a restaurant en
 
 ### Game Levels:
 - **Normal Level**: a normal waiter receiving orders and delivering them to the corresponding tables
-- **Half-control Level**: the waiter loses his right hand and he should figure out who to deliver the orders in a faster way
+- **Half-control Level**: the waiter loses his right hand and he should figure out how to deliver the orders in a faster way
 - **Disabled Level**: Wheelchair waiter with only one hand and a desire to win the game and achieve high score!
 
 
